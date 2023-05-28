@@ -19,7 +19,7 @@ This is a sample FastAPI project that demonstrates how to create a RESTful API f
 1. Clone the repository:
 
    ```shell
-   git clone  https://github.com/Appy1505/FastAPI.git
+   git clone  https://github.com/KartikGupta0421/FastAPI.git
    cd FastAPI
 
 ---
@@ -40,6 +40,12 @@ This is a sample FastAPI project that demonstrates how to create a RESTful API f
 1. python3 run.py
 2. http://0.0.0.0:8080/docs
 
+## API Routes
+1. Read
+2. Analysis
+
+## Contribution 
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
 Feel free to customize and expand upon the README.md file as needed for your specific project.
